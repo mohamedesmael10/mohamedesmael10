@@ -2,7 +2,7 @@
 
 **System Administrator / DevOps Engineer**
 
-Welcome to my GitHub profile! I’m Mohamed Mostafa Esmael, a dedicated System Administrator and DevOps Engineer based in Damietta, Egypt. I specialize in cloud computing, automation, and CI/CD pipelines, consistently delivering scalable IT solutions.
+Welcome to my GitHub profile! I’m Mohamed Mostafa Esmael, a dedicated System Administrator and DevOps Engineer based in Egypt. I specialize in cloud computing, automation, and CI/CD pipelines, consistently delivering scalable IT solutions.
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m Mohamed Mostafa Esmael, a dedicated System A
 - **Web Technologies:** HTML5, CSS3, JavaScript.
 - **Software Development:** C, C#, Java.
 - **Version Control:** Git & GitHub.
-- **System Administration:** Linux & Windows management, network troubleshooting, virtualization (VMware, VirtualBox).
+- **System Administration:** Linux & Windows management, network troubleshooting, virtualization (VMware, VirtualBox, vSphere).
 
 ---
 
