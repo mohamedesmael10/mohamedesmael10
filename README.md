@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m Mohamed Mostafa Esmael, a dedicated System A
 ## About Me
 - **LinkedIn:** [linkedin.com/in/mohamedesmael](https://www.linkedin.com/in/mohamedesmael/)
 - **Education:** Bachelor of Engineering in Electrical, Electronics, and Communications Engineering from the Higher Institute of Engineering and Technology in New Damietta.
-- **Experience:** Extensive hands-on experience through internships at ITI, DEPI, NTI, and Portegy—focusing on system administration, cloud operations, and network engineering.
+- **Experience:** Extensive hands-on experience through internships at ITI, DEPI, NTI, and Portegy—focusing on DevOps, system administration, cloud operations, and network engineering.
 - **Certifications:** Huawei Certified Cloud Developer Associate (HCCDA) among others.
 
 ---
