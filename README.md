@@ -33,10 +33,13 @@ Welcome to my GitHub profile! I’m Mohamed Mostafa Esmael, a dedicated System A
 ---
 
 ## Projects
-Below are some highlighted projects from my GitHub:
+
 - **Self-Driving Car Project:** Developed an autonomous car using OpenCV and an NVIDIA CNN model with Keras.
 - **NDETI Satellite:** Designed a remote-controlled satellite for imaging and environmental sensing.
-- *(Additional Projects)* – For more projects, please check out my [repositories](https://github.com/mohamedesmael10?tab=repositories).
+- **Terraform AWS Project:** Automated AWS infrastructure provisioning using Terraform for scalable, repeatable deployments.
+- **Windows Server Project:** Built and configured Windows Server environments, focusing on Active Directory, DNS, DHCP, and Group Policy management.
+
+For more of my work, please check out my [repositories](https://github.com/mohamedesmael10?tab=repositories).
 
 ---
 
