@@ -1,16 +1,45 @@
-## Hi there 👋
+# Mohamed Mostafa Esmael
 
-<!--
-**mohamedesmael10/mohamedesmael10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**System Administrator / DevOps Engineer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m Mohamed Mostafa Esmael, a dedicated System Administrator and DevOps Engineer based in Damietta, Egypt. I specialize in cloud computing, automation, and CI/CD pipelines, consistently delivering scalable IT solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+- **LinkedIn:** [linkedin.com/in/mohamedesmael](https://www.linkedin.com/in/mohamedesmael/)
+- **Education:** Bachelor of Engineering in Electrical, Electronics, and Communications Engineering from the Higher Institute of Engineering and Technology in New Damietta.
+- **Experience:** Extensive hands-on experience through internships at ITI, DEPI, NTI, and Portegy—focusing on system administration, cloud operations, and network engineering.
+- **Certifications:** Huawei Certified Cloud Developer Associate (HCCDA) among others.
+
+---
+
+## Skills
+- **DevOps Tools:** Ansible, Docker, Terraform, Jenkins, Kubernetes.
+- **Cloud Platforms:** AWS, Huawei Cloud.
+- **Programming & Scripting:** Python, Bash.
+- **Web Technologies:** HTML5, CSS3, JavaScript.
+- **Software Development:** C, C#, Java.
+- **Version Control:** Git & GitHub.
+- **System Administration:** Linux & Windows management, network troubleshooting, virtualization (VMware, VirtualBox).
+
+---
+
+## DevOps & Cloud Focus
+- Proven experience in designing and implementing CI/CD pipelines.
+- Automation of system deployments and configurations.
+- Expertise in monitoring and optimizing both cloud-based and on-premises infrastructures.
+
+---
+
+## Projects
+Below are some highlighted projects from my GitHub:
+- **Self-Driving Car Project:** Developed an autonomous car using OpenCV and an NVIDIA CNN model with Keras.
+- **NDETI Satellite:** Designed a remote-controlled satellite for imaging and environmental sensing.
+- *(Additional Projects)* – For more projects, please check out my [repositories](https://github.com/mohamedesmael10?tab=repositories).
+
+---
+
+## Contact
+- **Email:** [mohamed.mostafa.esmael10@outlook.com](mailto:mohamed.mostafa.esmael10@outlook.com)
+- **LinkedIn:** [linkedin.com/in/mohamedesmael](https://www.linkedin.com/in/mohamedesmael/)
