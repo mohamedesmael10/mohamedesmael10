@@ -54,11 +54,11 @@ Welcome to my GitHub profile! I’m Mohamed Mostafa Esmael, a dedicated System A
 - **Self-Driving Car Project** — Autonomous vehicle using OpenCV and an NVIDIA CNN model (Keras).
 - **NDETI Satellite** — Remote-controlled satellite for imaging and environmental sensing.
 - **Comprehensive Production CI/CD Pipeline** — Full pipeline (Java 17, Maven, Docker, Ansible, ArgoCD, K3s, Prometheus, Grafana) with branches implemented for Jenkins, GitHub Actions, and AWS CodePipeline.  
-    🔹  **AWS CodePipeline Project Link**: [Comprehensive Production CI/CD Pipeline - AWS CodePipeline](https://github.com/mohamedesmael10/comprehensive-production-ci-cd-pipeline/tree/codepipeline)
+     🔹  **AWS CodePipeline Project Link**: [Comprehensive Production CI/CD Pipeline - AWS CodePipeline](https://github.com/mohamedesmael10/comprehensive-production-ci-cd-pipeline/tree/codepipeline)
 
-    🔹  **GitHub Actions Project Link**: [Comprehensive Production CI/CD Pipeline - GitHub Actions](https://github.com/mohamedesmael10/comprehensive-production-ci-cd-pipeline/tree/git-actions-pipeline)
+     🔹  **GitHub Actions Project Link**: [Comprehensive Production CI/CD Pipeline - GitHub Actions](https://github.com/mohamedesmael10/comprehensive-production-ci-cd-pipeline/tree/git-actions-pipeline)
 
-    🔹  **Jenkins Project Link**: [Comprehensive Production CI/CD Pipeline - Jenkins](https://github.com/mohamedesmael10/comprehensive-production-ci-cd-pipeline/tree/main)
+     🔹  **Jenkins Project Link**: [Comprehensive Production CI/CD Pipeline - Jenkins](https://github.com/mohamedesmael10/comprehensive-production-ci-cd-pipeline/tree/main)
 - **Terraform AWS Project** — Automated AWS provisioning for scalable, repeatable deployments.  
   Repo: [terraform-aws-project](https://github.com/mohamedesmael10/terraform-aws-project)
 - **Windows Server Project** — Active Directory, DNS, DHCP, Group Policy implementations.  
