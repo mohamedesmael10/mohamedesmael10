@@ -82,7 +82,7 @@ For more of my work, please check out my [repositories](https://github.com/moham
 
 ## Check my CV
 
-**Download my CV:** [Mohamed-Esmael-CV.pdf](https://drive.google.com/file/d/1Ni-Y56viKbV21uh4Pw3N3TGsS3MZ3LH7/view?usp=sharing).
+**Download my CV:** [Mohamed-Esmael-CV.pdf](https://drive.google.com/file/d/1fuPvYqZMgANWhlqRyi8D1EQWRpn4ovxI/view?usp=sharing).
 
 ---
 
