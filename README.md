@@ -63,13 +63,13 @@ Welcome to my GitHub profile! I’m Mohamed Mostafa Esmael, a dedicated System A
 
      🔹  **OpenShift (OSD) – Production Branch**:Production-grade CI/CD rollout for HybridRAG on Red Hat OpenShift covering build → test → security and quality analysis → containerization → deployment → monitoring for Java 17+ Maven-based AI microservices using GitLab CD, Helm, and Terraform with automated provisioning of LLM services, vector databases, and Pub/Sub components.
 
-   -***GitHub link***: [Production-Grade HybridRAG](https://github.com/mohamedesmael10/HybridRAG_End-to-End_AI_Chatbot_on_OpenShift_OpenStack_GCP) 
-   -***Gitlab link***: [Production-Grade HybridRAG](https://gitlab.com/mohamedesmael10/hybridrag_end-to-end_ai_chatbot_on_openshift_openstack_gcp)
+   ***GitHub link***: [Production-Grade HybridRAG](https://github.com/mohamedesmael10/HybridRAG_End-to-End_AI_Chatbot_on_OpenShift_OpenStack_GCP) 
+      ***Gitlab link***: [Production-Grade HybridRAG](https://gitlab.com/mohamedesmael10/hybridrag_end-to-end_ai_chatbot_on_openshift_openstack_gcp)
 
      🔹  **OpenStack – Development & Testing Branch**: Private-cloud CI/CD pipeline for HybridRAG on OpenStack covering build → test → security and quality validation → integration checks using GitLab CI and Terraform, ensuring all AI microservices meet compliance and reliability standards before controlled promotion to Red Hat OpenShift production.
               
-  -***GitHub link***: [Development & Testing-Grade HybridRAG](https://github.com/mohamedesmael10/HybridRAG_End-to-End_AI_Chatbot_on_OpenShift_OpenStack_GCP/tree/develop)
-  -***Gitlab link***: [Development & Testing-Grade HybridRAG](https://gitlab.com/mohamedesmael10/hybridrag_end-to-end_ai_chatbot_on_openshift_openstack_gcp/-/tree/develop?ref_type=heads)
+  ***GitHub link***: [Development & Testing-Grade HybridRAG](https://github.com/mohamedesmael10/HybridRAG_End-to-End_AI_Chatbot_on_OpenShift_OpenStack_GCP/tree/develop)
+     ***Gitlab link***: [Development & Testing-Grade HybridRAG](https://gitlab.com/mohamedesmael10/hybridrag_end-to-end_ai_chatbot_on_openshift_openstack_gcp/-/tree/develop?ref_type=heads)
 - **Multi-Tier Private Cloud — AWS Infrastructure as Code (Terraform)** — Production-ready, multi-tier AWS environment designed and deployed using Terraform, following a full infrastructure lifecycle from planning to operations.
 Repo: [multi-tier-private-cloud](https://github.com/mohamedesmael10/MultiTier_Terraform)
 - **Terraform AWS Project** — Automated AWS provisioning for scalable, repeatable deployments.
