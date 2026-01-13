@@ -71,8 +71,10 @@ Welcome to my GitHub profile! I’m Mohamed Mostafa Esmael, a dedicated System A
   ***GitHub link***: [Development & Testing-Grade HybridRAG](https://github.com/mohamedesmael10/HybridRAG_End-to-End_AI_Chatbot_on_OpenShift_OpenStack_GCP/tree/develop)
      ***Gitlab link***: [Development & Testing-Grade HybridRAG](https://gitlab.com/mohamedesmael10/hybridrag_end-to-end_ai_chatbot_on_openshift_openstack_gcp/-/tree/develop?ref_type=heads)
 - **Multi-Tier Private Cloud — AWS Infrastructure as Code (Terraform)** — Production-ready, multi-tier AWS environment designed and deployed using Terraform, following a full infrastructure lifecycle from planning to operations.
+
 Repo: [multi-tier-private-cloud](https://github.com/mohamedesmael10/MultiTier_Terraform)
 - **Terraform AWS Project** — Automated AWS provisioning for scalable, repeatable deployments.
+
   Repo: [terraform-aws-project](https://github.com/mohamedesmael10/terraform-aws-project)
 - **Windows Server Project** — Active Directory, DNS, DHCP, Group Policy implementations.  
   Repo: [Windows_Server_Project](https://github.com/mohamedesmael10/Windows_Server_Project)
